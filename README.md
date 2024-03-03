@@ -4,9 +4,9 @@
   <img src="./profile.gif" class="card-img-top" alt="profile-oshay">
   <div class="card-body">
 <div>
-<img src="./border.gif" width="100%" height="10" autoplay=true>
+<img src="./border.gif" width="100%" height="3">
   <img src="https://github-readme-stats.vercel.app/api?username=oshayjackson&hide=issues,contribs&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github&card_width=" alt="GitHub Stats" width="50%" height="">
-<img src="./border.gif" width="100%" height="10" autoplay=true>
+<img src="./border.gif" width="100%" height="3">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshayjackson&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" height="">
 
 
