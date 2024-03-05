@@ -5,10 +5,6 @@
   <div class="card-body">
 <div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=oshayjackson&hide=issues,contribs&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github&card_width=" alt="GitHub Stats" width="50%" height="">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshayjackson&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" height="">
-
 
 
 
